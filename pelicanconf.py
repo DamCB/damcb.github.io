@@ -54,7 +54,7 @@ TYPOGRIFY = True
 CODE_DIR = 'downloads/code'
 NOTEBOOK_DIR = 'downloads/notebooks'
 
-PLUGIN_PATHS = ['../../Pelican/pelican-plugins/', ]
+PLUGIN_PATHS = ['../Pelican/pelican-plugins/', ]
 PLUGINS = ['summary',
            'liquid_tags.img',
            'liquid_tags.video',

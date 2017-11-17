@@ -89,7 +89,7 @@ SUMMARY_END_MARKER = "<!-- TEASER_END -->"
 
 
 # Following items are often useful when publishing
-DISQUS_SITENAME = "damcellbiology"
+# DISQUS_SITENAME = "damcellbiology"
 
 
 # Uncomment following line if you want document-relative URLs when developing

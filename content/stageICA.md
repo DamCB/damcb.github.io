@@ -53,21 +53,26 @@ Cette offre s’adresse à des étudiants en M2 ou Ecole d’ingénieurs en Math
 Mécanique Numérique et/ou Traitement d’Images motivés par la poursuite d’étude en thèse.
 
 Les compétences attendues sont :
+
 * maîtrise des bases en traitement d’images
 * maîtrise des bases d’optimisation numérique.
 * Notion sur la méthode par Eléments Finis
 
 Le langage de programmation est Python.
 
-Laboratoire d’accueil | ICA CNRS UMR 5312 / Université Paul Sabatier (poste basé à Toulouse) |
-Durée                 | 6 mois à compter du premier trimestre 2018
-Gratification         | 550 € / mois environ
+* Laboratoire d’accueil :
+> ICA CNRS UMR 5312 / Université Paul Sabatier (poste basé à Toulouse)
+* Durée :
+> 6 mois à compter du premier trimestre 2018
+* Gratification
+> 550 € / mois environ
 
 ## Contact
 
 Merci d’adresser par email 1 CV et 1 LM aux 5 personnes suivantes:
-- Florian BUGARIN - florian.bugarin@univ-tlse3 Stephane SEGONDS
-- stephane.segonds@univ-tlse3.fr
-- Audrey Ferrand - audrey.ferrand@inserm.fr
-- Frederick Barreau - frederick.barreau@inserm.com
-- Guillaume GAY - guillaume@damcb.com
+
+- **Florian BUGARIN** -- florian.bugarin@univ-tlse3
+- **Stephane SEGONDS** -- stephane.segonds@univ-tlse3.fr
+- **Audrey Ferrand** -- audrey.ferrand@inserm.fr
+- **Frederick Barreau** -- frederick.barreau@inserm.com
+- **Guillaume GAY** -- guillaume@damcb.com

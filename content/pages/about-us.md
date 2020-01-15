@@ -15,7 +15,7 @@ Our main focus is the development of the `tyssue` library.
 ## About Guillaume
 
 
-![A photo of me]({filename}/images/portrait_gg.jpg "A photo of me where I look thoughtfull")
+![A photo of me]({static}/images/portrait_gg.jpg "A photo of me where I look thoughtfull")
 
 
 My name is Guillaume Gay. I am currently working as an independent

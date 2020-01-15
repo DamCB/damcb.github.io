@@ -9,7 +9,7 @@ summary: Our primary focus is in software edition, but we also provide the follo
 
 ### Physical biology and modeling
 
-![models!!]({filename}/images/logo_modeling.png)
+![models!!]({static}/images/logo_modeling.png)
 
 -   Taylored developments in the `tyssue` framework
 -   Training in physical biology and biophysics.
@@ -20,7 +20,7 @@ summary: Our primary focus is in software edition, but we also provide the follo
 
 ### Training
 
-![snake]({filename}/images/logo_python.png)
+![snake]({static}/images/logo_python.png)
 
 -   Image analysis
 -   Toy models for cell biology
